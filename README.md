@@ -1,4 +1,4 @@
-## 📚 Technologies que j'apprends  
+## 📚 
 - **Langages** :  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)  
