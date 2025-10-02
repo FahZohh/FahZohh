@@ -1,8 +1,8 @@
 ## 💡 Random Dev Quote  
 
-> <!--QUOTE_START-->  
-> "Talk is cheap. Show me the code." – Linus Torvalds  
-> <!--QUOTE_END--> 
+> <!--QUOTE_START-->
+"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+<!--QUOTE_END--> 
 
 ---
 
