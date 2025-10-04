@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
