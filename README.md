@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Good code is its own best documentation." – Steve McConnell
+"To iterate is human, to recurse divine." – L. Peter Deutsch
 <!--QUOTE_END--> 
 
 ---
