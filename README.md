@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Truth can only be found in one place: the code." – Robert C. Martin
+"The function of good software is to make the complex appear simple." – Grady Booch
 <!--QUOTE_END--> 
 
 ---
