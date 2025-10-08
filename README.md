@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code." – Jeff Sickel
+"Simplicity is the soul of efficiency." – Austin Freeman
 <!--QUOTE_END--> 
 
 ---
