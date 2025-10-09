@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Simplicity is the soul of efficiency." – Austin Freeman
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 <!--QUOTE_END--> 
 
 ---
