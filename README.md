@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
 <!--QUOTE_END--> 
 
 ---
