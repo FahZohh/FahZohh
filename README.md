@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code." – Jeff Sickel
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
