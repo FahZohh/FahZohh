@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"To iterate is human, to recurse divine." – L. Peter Deutsch
 <!--QUOTE_END--> 
 
 ---
