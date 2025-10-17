@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
 <!--QUOTE_END--> 
 
 ---
