@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"First, solve the problem. Then, write the code." – John Johnson
+"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
 <!--QUOTE_END--> 
 
 ---
