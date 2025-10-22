@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
 <!--QUOTE_END--> 
 
 ---
