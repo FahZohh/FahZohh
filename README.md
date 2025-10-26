@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Premature optimization is the root of all evil." – Donald Knuth
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 <!--QUOTE_END--> 
 
 ---
