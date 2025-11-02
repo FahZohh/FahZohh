@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 <!--QUOTE_END--> 
 
 ---
