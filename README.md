@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Truth can only be found in one place: the code." – Robert C. Martin
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
