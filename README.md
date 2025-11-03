@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Good code is its own best documentation." – Steve McConnell
+"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
 <!--QUOTE_END--> 
 
 ---
