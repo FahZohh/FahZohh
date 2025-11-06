@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
+"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
 <!--QUOTE_END--> 
 
 ---
