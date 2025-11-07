@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
 
 ---
