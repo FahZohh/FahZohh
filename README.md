@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 <!--QUOTE_END--> 
 
 ---
