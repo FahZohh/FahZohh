@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Premature optimization is the root of all evil." – Donald Knuth
+"The computer was born to solve problems that did not exist before." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
