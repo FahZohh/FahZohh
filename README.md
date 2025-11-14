@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 <!--QUOTE_END--> 
 
 ---
