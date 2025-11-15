@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
+"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
 <!--QUOTE_END--> 
 
 ---
