@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 <!--QUOTE_END--> 
 
 ---
