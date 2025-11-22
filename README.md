@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Premature optimization is the root of all evil." – Donald Knuth
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
