@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Good code is its own best documentation." – Steve McConnell
+"The function of good software is to make the complex appear simple." – Grady Booch
 <!--QUOTE_END--> 
 
 ---
