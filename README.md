@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code." – Jeff Sickel
+"The function of good software is to make the complex appear simple." – Grady Booch
 <!--QUOTE_END--> 
 
 ---
