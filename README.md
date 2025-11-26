@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable." – Ralph Johnson
+"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
 <!--QUOTE_END--> 
 
 ---
