@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Good code is its own best documentation." – Steve McConnell
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
 
 ---
