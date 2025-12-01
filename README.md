@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code." – Jeff Sickel
+"Don’t comment bad code—rewrite it." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
