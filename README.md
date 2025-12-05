@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
 <!--QUOTE_END--> 
 
 ---
