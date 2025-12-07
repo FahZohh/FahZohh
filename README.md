@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
