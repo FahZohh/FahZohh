@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Deleted code is debugged code." – Jeff Sickel
+"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
 <!--QUOTE_END--> 
 
 ---
