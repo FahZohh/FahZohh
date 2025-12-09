@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
