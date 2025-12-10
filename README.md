@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
 <!--QUOTE_END--> 
 
 ---
