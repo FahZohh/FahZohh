@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
+"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
 <!--QUOTE_END--> 
 
 ---
