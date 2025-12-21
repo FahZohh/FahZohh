@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"The function of good software is to make the complex appear simple." – Grady Booch
 <!--QUOTE_END--> 
 
 ---
