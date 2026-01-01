@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don’t comment bad code—rewrite it." – Brian Kernighan
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
