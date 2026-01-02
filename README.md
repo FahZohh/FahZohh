@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
+"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
 <!--QUOTE_END--> 
 
 ---
