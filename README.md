@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Talk is cheap. Show me the code." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
