@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
