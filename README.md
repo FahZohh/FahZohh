@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Truth can only be found in one place: the code." – Robert C. Martin
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
 
 ---
