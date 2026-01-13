@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
+"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
