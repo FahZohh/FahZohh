@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"First, solve the problem. Then, write the code." – John Johnson
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
