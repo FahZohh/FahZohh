@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"First, solve the problem. Then, write the code." – John Johnson
 <!--QUOTE_END--> 
 
 ---
