@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
+"Talk is cheap. Show me the code." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
