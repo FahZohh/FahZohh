@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Simplicity is the soul of efficiency." – Austin Freeman
+"The function of good software is to make the complex appear simple." – Grady Booch
 <!--QUOTE_END--> 
 
 ---
