@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Simplicity is the soul of efficiency." – Austin Freeman
+"Truth can only be found in one place: the code." – Robert C. Martin
 <!--QUOTE_END--> 
 
 ---
