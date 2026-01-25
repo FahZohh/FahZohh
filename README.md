@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don’t comment bad code—rewrite it." – Brian Kernighan
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 <!--QUOTE_END--> 
 
 ---
