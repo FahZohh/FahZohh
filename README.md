@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
 <!--QUOTE_END--> 
 
 ---
