@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
+"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
 <!--QUOTE_END--> 
 
 ---
