@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The function of good software is to make the complex appear simple." – Grady Booch
+"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
 <!--QUOTE_END--> 
 
 ---
