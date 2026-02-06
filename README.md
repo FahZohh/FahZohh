@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
