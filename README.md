@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Good code is its own best documentation." – Steve McConnell
+"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
 <!--QUOTE_END--> 
 
 ---
