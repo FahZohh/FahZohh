@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
 <!--QUOTE_END--> 
 
 ---
