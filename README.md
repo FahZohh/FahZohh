@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before." – Bill Gates
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
 <!--QUOTE_END--> 
 
 ---
