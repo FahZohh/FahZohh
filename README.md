@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Talk is cheap. Show me the code." – Linus Torvalds
+"Don’t comment bad code—rewrite it." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
