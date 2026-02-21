@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Premature optimization is the root of all evil." – Donald Knuth
+"Don’t comment bad code—rewrite it." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
