@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Talk is cheap. Show me the code." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
