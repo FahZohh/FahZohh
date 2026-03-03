@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
