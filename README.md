@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
 
 ---
