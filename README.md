@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before." – Bill Gates
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
