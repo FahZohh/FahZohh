@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Deleted code is debugged code." – Jeff Sickel
 <!--QUOTE_END--> 
 
 ---
