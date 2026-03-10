@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
 <!--QUOTE_END--> 
 
 ---
