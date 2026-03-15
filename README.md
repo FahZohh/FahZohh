@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don’t comment bad code—rewrite it." – Brian Kernighan
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 <!--QUOTE_END--> 
 
 ---
