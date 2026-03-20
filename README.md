@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
 <!--QUOTE_END--> 
 
 ---
