@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 <!--QUOTE_END--> 
 
 ---
