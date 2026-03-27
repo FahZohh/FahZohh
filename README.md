@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
+"First, solve the problem. Then, write the code." – John Johnson
 <!--QUOTE_END--> 
 
 ---
