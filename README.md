@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don’t comment bad code—rewrite it." – Brian Kernighan
+"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
 <!--QUOTE_END--> 
 
 ---
