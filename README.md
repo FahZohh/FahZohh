@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
+"The computer was born to solve problems that did not exist before." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
