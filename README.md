@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before." – Bill Gates
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
