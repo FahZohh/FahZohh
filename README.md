@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
