@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
