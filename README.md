@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"Premature optimization is the root of all evil." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
