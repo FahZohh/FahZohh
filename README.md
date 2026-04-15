@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
