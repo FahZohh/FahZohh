@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
