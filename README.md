@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
+"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
 <!--QUOTE_END--> 
 
 ---
