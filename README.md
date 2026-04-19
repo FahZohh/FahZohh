@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Truth can only be found in one place: the code." – Robert C. Martin
+"Talk is cheap. Show me the code." – Linus Torvalds
 <!--QUOTE_END--> 
 
 ---
