@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
 <!--QUOTE_END--> 
 
 ---
