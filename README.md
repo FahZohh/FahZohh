@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"To iterate is human, to recurse divine." – L. Peter Deutsch
 <!--QUOTE_END--> 
 
 ---
