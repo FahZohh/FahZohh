@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Premature optimization is the root of all evil." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
