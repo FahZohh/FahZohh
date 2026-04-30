@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
+"The computer was born to solve problems that did not exist before." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
