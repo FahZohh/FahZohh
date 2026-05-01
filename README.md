@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
+"Premature optimization is the root of all evil." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
