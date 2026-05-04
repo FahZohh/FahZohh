@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Simplicity is the soul of efficiency." – Austin Freeman
+"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code." – Dan Salomon
 <!--QUOTE_END--> 
 
 ---
