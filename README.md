@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Simplicity is the soul of efficiency." – Austin Freeman
 <!--QUOTE_END--> 
 
 ---
