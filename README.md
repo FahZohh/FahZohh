@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
 <!--QUOTE_END--> 
 
 ---
