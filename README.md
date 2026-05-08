@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before." – Bill Gates
+"Truth can only be found in one place: the code." – Robert C. Martin
 <!--QUOTE_END--> 
 
 ---
