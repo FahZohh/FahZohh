@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
