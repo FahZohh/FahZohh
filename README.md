@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Truth can only be found in one place: the code." – Robert C. Martin
+"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
