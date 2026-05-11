@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
 <!--QUOTE_END--> 
 
 ---
