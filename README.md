@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"The computer was born to solve problems that did not exist before." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
