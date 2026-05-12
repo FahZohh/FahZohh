@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code." – Dan Salomon
+"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
 <!--QUOTE_END--> 
 
 ---
