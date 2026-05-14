@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
