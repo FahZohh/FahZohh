@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Good code is its own best documentation." – Steve McConnell
+"Simplicity is the soul of efficiency." – Austin Freeman
 <!--QUOTE_END--> 
 
 ---
