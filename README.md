@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code." – Dan Salomon
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
 <!--QUOTE_END--> 
 
 ---
