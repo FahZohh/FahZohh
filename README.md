@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
+"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code." – Dan Salomon
 <!--QUOTE_END--> 
 
 ---
