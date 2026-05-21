@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before." – Bill Gates
+"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
 <!--QUOTE_END--> 
 
 ---
