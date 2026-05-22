@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before." – Bill Gates
+"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
 <!--QUOTE_END--> 
 
 ---
