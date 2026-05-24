@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
 <!--QUOTE_END--> 
 
 ---
