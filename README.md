@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
 <!--QUOTE_END--> 
 
 ---
