@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
+"To iterate is human, to recurse divine." – L. Peter Deutsch
 <!--QUOTE_END--> 
 
 ---
