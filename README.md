@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
+"Truth can only be found in one place: the code." – Robert C. Martin
 <!--QUOTE_END--> 
 
 ---
