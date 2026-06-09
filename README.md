@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds
+"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
 <!--QUOTE_END--> 
 
 ---
