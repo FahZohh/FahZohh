@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 <!--QUOTE_END--> 
 
 ---
