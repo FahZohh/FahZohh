@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable." – Ralph Johnson
+"Deleted code is debugged code." – Jeff Sickel
 <!--QUOTE_END--> 
 
 ---
