@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The function of good software is to make the complex appear simple." – Grady Booch
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
 
 ---
