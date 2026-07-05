@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Simplicity is the soul of efficiency." – Austin Freeman
+"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
 <!--QUOTE_END--> 
 
 ---
