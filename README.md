@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
+"In theory, theory and practice are the same. In practice, they’re not." – Yogi Berra
 <!--QUOTE_END--> 
 
 ---
