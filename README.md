@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Good code is its own best documentation." – Steve McConnell
 <!--QUOTE_END--> 
 
 ---
