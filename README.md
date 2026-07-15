@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The most disastrous thing that you can ever learn is your first programming language." – Alan Kay
+"Premature optimization is the root of all evil." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
