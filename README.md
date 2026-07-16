@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable." – Ralph Johnson
+"Controlling complexity is the essence of computer programming." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
