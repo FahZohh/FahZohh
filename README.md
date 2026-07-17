@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
 <!--QUOTE_END--> 
 
 ---
