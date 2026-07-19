@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
+"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
 <!--QUOTE_END--> 
 
 ---
