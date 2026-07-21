@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"Deleted code is debugged code." – Jeff Sickel
 <!--QUOTE_END--> 
 
 ---
