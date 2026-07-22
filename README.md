@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The computer was born to solve problems that did not exist before." – Bill Gates
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 <!--QUOTE_END--> 
 
 ---
