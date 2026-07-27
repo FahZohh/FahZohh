@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don’t comment bad code—rewrite it." – Brian Kernighan
+"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
 <!--QUOTE_END--> 
 
 ---
