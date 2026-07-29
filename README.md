@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Truth can only be found in one place: the code." – Robert C. Martin
+"Don’t comment bad code—rewrite it." – Brian Kernighan
 <!--QUOTE_END--> 
 
 ---
