@@ -1,7 +1,7 @@
 ## 💡 Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
 <!--QUOTE_END--> 
 
 ---
