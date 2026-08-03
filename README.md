@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don’t comment bad code—rewrite it." – Brian Kernighan
+"To iterate is human, to recurse divine." – L. Peter Deutsch
 <!--QUOTE_END--> 
  
