@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Adding manpower to a late software project makes it later." – Fred Brooks
+"The cheapest, fastest, and most reliable components are those that aren't there." – Gordon Bell
 <!--QUOTE_END--> 
  
