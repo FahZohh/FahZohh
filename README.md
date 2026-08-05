@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"In theory, theory and practice are the same. In practice, they're not." – Yogi Berra
+"Adding manpower to a late software project makes it later." – Fred Brooks
 <!--QUOTE_END--> 
  
