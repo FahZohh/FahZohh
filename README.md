@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The cheapest, fastest, and most reliable components are those that aren't there." – Gordon Bell
+"One of my most productive days was throwing away 1,000 lines of code." – Ken Thompson
 <!--QUOTE_END--> 
  
