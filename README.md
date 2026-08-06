@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"One of my most productive days was throwing away 1,000 lines of code." – Ken Thompson
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
  
