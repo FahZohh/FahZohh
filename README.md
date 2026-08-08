@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Good code is its own best documentation." – Steve McConnell
+"Adding manpower to a late software project makes it later." – Fred Brooks
 <!--QUOTE_END--> 
  
