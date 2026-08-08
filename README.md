@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Adding manpower to a late software project makes it later." – Fred Brooks
+"Truth can only be found in one place: the code." – Robert C. Martin
 <!--QUOTE_END--> 
  
