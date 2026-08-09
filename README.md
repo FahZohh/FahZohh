@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
+"The function of good software is to make the complex appear simple." – Grady Booch
 <!--QUOTE_END--> 
  
