@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Truth can only be found in one place: the code." – Robert C. Martin
+"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
 <!--QUOTE_END--> 
  
