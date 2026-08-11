@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
+"The best code is no code at all." – Jeff Atwood
 <!--QUOTE_END--> 
  
