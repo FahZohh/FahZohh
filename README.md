@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." – Linus Torvalds
+"Plan to throw one away; you will, anyhow." – Fred Brooks
 <!--QUOTE_END--> 
  
