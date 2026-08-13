@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Plan to throw one away; you will, anyhow." – Fred Brooks
+"Simplicity is the soul of efficiency." – Austin Freeman
 <!--QUOTE_END--> 
  
