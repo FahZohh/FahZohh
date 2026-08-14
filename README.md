@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Before software can be reusable it first has to be usable." – Ralph Johnson
+"Don't comment bad code—rewrite it." – Brian Kernighan
 <!--QUOTE_END--> 
  
