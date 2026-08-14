@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Make it work, make it right, make it fast." – Kent Beck
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
  
