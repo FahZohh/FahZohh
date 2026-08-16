@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The best error message is the one that never shows up." – Thomas Fuchs
+"Plan to throw one away; you will, anyhow." – Fred Brooks
 <!--QUOTE_END--> 
  
