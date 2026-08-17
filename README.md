@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The best code is no code at all." – Jeff Atwood
+"Simplicity is the soul of efficiency." – Austin Freeman
 <!--QUOTE_END--> 
  
