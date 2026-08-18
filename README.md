@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
 <!--QUOTE_END--> 
  
