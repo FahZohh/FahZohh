@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"To iterate is human, to recurse divine." – L. Peter Deutsch
+"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
 <!--QUOTE_END--> 
  
