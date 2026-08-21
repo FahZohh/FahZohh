@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don't comment bad code—rewrite it." – Brian Kernighan
+"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
 <!--QUOTE_END--> 
  
