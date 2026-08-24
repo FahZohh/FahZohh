@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Talk is cheap. Show me the code." – Linus Torvalds
+"The best code is no code at all." – Jeff Atwood
 <!--QUOTE_END--> 
  
