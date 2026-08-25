@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The best code is no code at all." – Jeff Atwood
+"Before software can be reusable it first has to be usable." – Ralph Johnson
 <!--QUOTE_END--> 
  
