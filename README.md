@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
+"One of my most productive days was throwing away 1,000 lines of code." – Ken Thompson
 <!--QUOTE_END--> 
  
