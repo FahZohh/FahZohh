@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
 <!--QUOTE_END--> 
  
