@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"In theory, theory and practice are the same. In practice, they're not." – Yogi Berra
 <!--QUOTE_END--> 
  
