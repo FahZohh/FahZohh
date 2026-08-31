@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The cheapest, fastest, and most reliable components are those that aren't there." – Gordon Bell
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
 <!--QUOTE_END--> 
  
