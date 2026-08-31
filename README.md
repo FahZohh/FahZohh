@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
+"The cheapest, fastest, and most reliable components are those that aren't there." – Gordon Bell
 <!--QUOTE_END--> 
  
