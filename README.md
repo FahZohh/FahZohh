@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The best code is no code at all." – Jeff Atwood
+"The best error message is the one that never shows up." – Thomas Fuchs
 <!--QUOTE_END--> 
  
