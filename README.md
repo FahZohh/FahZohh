@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
 <!--QUOTE_END--> 
  
