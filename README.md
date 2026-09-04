@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
+"Premature optimization is the root of all evil." – Donald Knuth
 <!--QUOTE_END--> 
  
