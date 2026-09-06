@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"If debugging is the process of removing bugs, then programming must be the process of putting them in." – Edsger W. Dijkstra
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
 <!--QUOTE_END--> 
  
