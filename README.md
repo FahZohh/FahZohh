@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
+"Talk is cheap. Show me the code." – Linus Torvalds
 <!--QUOTE_END--> 
  
