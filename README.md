@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Simplicity is the soul of efficiency." – Austin Freeman
+"The best error message is the one that never shows up." – Thomas Fuchs
 <!--QUOTE_END--> 
  
