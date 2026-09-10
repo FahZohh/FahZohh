@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"Talk is cheap. Show me the code." – Linus Torvalds
 <!--QUOTE_END--> 
  
