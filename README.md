@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
 <!--QUOTE_END--> 
  
