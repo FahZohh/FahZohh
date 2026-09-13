@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Debugging is twice as hard as writing the code in the first place." – Brian Kernighan
+"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
 <!--QUOTE_END--> 
  
