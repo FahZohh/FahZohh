@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Code never lies, comments sometimes do." – Ron Jeffries
+"The best code is no code at all." – Jeff Atwood
 <!--QUOTE_END--> 
  
