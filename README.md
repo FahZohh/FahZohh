@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"The cheapest, fastest, and most reliable components are those that aren't there." – Gordon Bell
+"Code never lies, comments sometimes do." – Ron Jeffries
 <!--QUOTE_END--> 
  
