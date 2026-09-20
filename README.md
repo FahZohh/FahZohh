@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
+"Debugging is twice as hard as writing the code in the first place." – Brian Kernighan
 <!--QUOTE_END--> 
  
