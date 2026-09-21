@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Premature optimization is the root of all evil." – Donald Knuth
 <!--QUOTE_END--> 
  
