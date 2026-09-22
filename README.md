@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
+"Programming is the art of telling another human what one wants the computer to do." – Donald Knuth
 <!--QUOTE_END--> 
  
