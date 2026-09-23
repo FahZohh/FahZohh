@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
 <!--QUOTE_END--> 
  
