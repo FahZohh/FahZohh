@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"One of my most productive days was throwing away 1,000 lines of code." – Ken Thompson
+"Talk is cheap. Show me the code." – Linus Torvalds
 <!--QUOTE_END--> 
  
