@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"One of my most productive days was throwing away 1,000 lines of code." – Ken Thompson
 <!--QUOTE_END--> 
  
