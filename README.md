@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
+"In theory, theory and practice are the same. In practice, they're not." – Yogi Berra
 <!--QUOTE_END--> 
  
