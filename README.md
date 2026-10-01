@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Controlling complexity is the essence of computer programming." – Brian Kernighan
+"To iterate is human, to recurse divine." – L. Peter Deutsch
 <!--QUOTE_END--> 
  
