@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Simplicity is the soul of efficiency." – Austin Freeman
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
 <!--QUOTE_END--> 
  
