@@ -1,6 +1,6 @@
 ## Random Dev Quote  
 
 > <!--QUOTE_START-->
-"Don't comment bad code—rewrite it." – Brian Kernighan
+"Simplicity is the soul of efficiency." – Austin Freeman
 <!--QUOTE_END--> 
  
